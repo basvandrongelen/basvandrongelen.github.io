@@ -14,7 +14,7 @@ Here you'll find:
 - Lessons from founding and building startups
 - Reflections on scaling systems and teams
 
-Welcome.
+Welcome!
 
 Expect practical thinking, candid observations, and lessons _I wish I'd learned sooner._
 
