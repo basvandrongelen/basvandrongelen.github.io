@@ -114,3 +114,7 @@ The AWS outage didn't teach us anything new. It merely exposed **who actually be
 Before your next system design session, ask yourself:
 
 > Which assumptions am I still pretending are true?
+
+Thanks for sticking with me till the end. 
+
+B.
