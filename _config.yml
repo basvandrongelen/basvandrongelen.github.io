@@ -38,7 +38,7 @@ social:
   email: bas.vandrongelen@outlook.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/basssje # change to your Twitter homepage
+    - https://x.com/basssje # change to your Twitter homepage
     - https://github.com/basvandrongelen # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -98,7 +98,22 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/avatar.jpg
+
+hero:
+  type: text
+  title: "Bas van Drongelen"
+  subtitle: "Building systems, teams, and companies"
+  description: >
+    I write about software architecture, leadership, and my journey building startups.  
+    Expect practical insights, real-world lessons, and reflections from a builder’s perspective.
+  action:
+    - label: "About Me"
+      url: /about/
+    - label: "Blog"
+      url: /archives/
+
+
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

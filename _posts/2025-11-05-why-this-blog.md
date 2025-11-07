@@ -1,6 +1,6 @@
 ---
 title: "Why This blog?"
-date: 2025-11-07 09:00:00 +0100
+date: 2025-11-05 09:00:00 +0100
 categories: [architecture]
 tags: [architecture, craftsmanship, thinking]
 ---
