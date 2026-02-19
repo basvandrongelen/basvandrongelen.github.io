@@ -23,4 +23,4 @@ Today I confront it. Today I ship. Today I test PEACH-Flow in the wild.
 
 ---
 
-**Early Access:** If you're a founder and avoidance shows up in your work, I'm testing PEACH-Flow with early participants. Email me at **[info@peach-flow.com](mailto://info@peach-flow.com)** or join the Discord: [PEACH-Flow](https://discord.gg/5M3bYs5A)
+**Early Access:** If you're a founder and avoidance shows up in your work, I'm testing PEACH-Flow with early participants. Email me at **[info@peach-flow.com](mailto:info@peach-flow.com)** or join the Discord: [PEACH-Flow](https://discord.gg/5M3bYs5A)
