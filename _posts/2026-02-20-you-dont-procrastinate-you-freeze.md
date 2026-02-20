@@ -41,4 +41,4 @@ I’m building this publicly.
 
 Because I’ve frozen in those moments myself.
 
-If this resonates, reach out.
+If this resonates, reach out at [info@peach-flow.com](mailto:info@peach-flow.com) and tell me the last moment you froze under visibility pressure.
