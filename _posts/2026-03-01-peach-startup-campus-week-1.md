@@ -102,4 +102,4 @@ If you measure by selection alone, you miss the point. The point is *calibrating
 
 Week 1 confirmed it.
 
-12 weeks remain. Now it’s about execution, leverage, and extracting every ounce of signal the system offers.
+11 weeks remain. Now it’s about execution, leverage, and extracting every ounce of signal the system offers.
