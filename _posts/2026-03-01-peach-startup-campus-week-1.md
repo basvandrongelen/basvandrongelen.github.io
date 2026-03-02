@@ -7,13 +7,13 @@ categories: [startup, campus, performance]
 
 Last week I joined Cohort 3 of the [Startup Campus Business Concept program](https://www.startup-campus.ch/trainings/business-concept/).
 
-12 weeks, structured sprints, pressure tests, public exposure. Wednesday evenings with your cohort. Saturday bootcamp from 09:00 to 18:00. Keynote. Pitches. Voting. Team formation. Apero.
+12 weeks, structured sprints, pressure tests, public exposure. Wednesday evenings with your cohort. First week only: an intensive bootcamp from 09:00 to 18:00. Keynote. Pitches. Voting. Team formation. Apero.
 
 Week 1 is designed to make founders confront a hard truth: *winning ideas don’t automatically win.*
 
 ## The Pressure Cooker
 
-The bootcamp begins in the auditorium, then each cohort splits into its classroom.
+The Bootcamp begins in the auditorium, then each cohort splits into its classroom.
 
 2 minutes pitch.  
 3 minutes Q&A.  
@@ -42,6 +42,14 @@ Mistakes learned:
 
 In short: optimal positioning is counterintuitive. First would have been best.
 
+I avoided first because I assumed everyone would be preoccupied with their own pitch.
+
+Wrong assumption.
+
+The first pitch defines the baseline. It anchors expectations. It benefits from freshness and attention.
+
+Useful correction.
+
 ## The Selection Bias
 
 I did not get enough votes. Simple outcome, powerful insight.
@@ -58,7 +66,8 @@ Not being selected isn’t failure. It’s *strategic calibration*.
 
 ## Team Formation and Leverage
 
-Post-lunch, the seven selected founders assemble teams (3–5 plus lead). Commitment becomes visible. Who bets 12 weeks of evenings and Saturdays on an idea?
+Post-lunch and an award session back in the auditorium, the seven selected founders assemble teams (3–5 plus lead). Commitment becomes visible:
+Who bets 12 weeks of evenings and their already scarce spare-time on an idea?
 
 Since my idea wasn’t selected, I joined another team.  
 
