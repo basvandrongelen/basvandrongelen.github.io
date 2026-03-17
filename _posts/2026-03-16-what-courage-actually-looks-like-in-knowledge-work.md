@@ -13,8 +13,7 @@ description: "It doesn't feel like bravery. It feels like nausea."
 
 I was watching footage of Steve Jobs in 1978, getting wired up for his first television appearance. A 23-year-old Jobs told the crew: "I'm deathly ill, actually, and ready to throw up at any moment." [You can watch it here.](https://www.youtube.com/watch?v=Eb9YTXmPolo)
 
-It reminded me of a time I felt about the same.
-
+It reminded me of a time I felt about the same.  
 Back in 2004, I switched careers. I had been working as an audio, electrical, and RF engineer. I moved into IT recruitment.
 
 ---
