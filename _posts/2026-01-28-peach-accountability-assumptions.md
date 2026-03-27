@@ -13,7 +13,7 @@ But it's still running on 100% assumptions.
 
 That is no longer acceptable.
 
-## What I currently believe
+## What I Believe
 I believe accountability can be **internal and external**.
 
 Internal accountability matters when someone already trusts themselves.
@@ -22,7 +22,7 @@ External accountability matters when they don't.
 This sounds reasonable.
 It may also be wrong.
 
-## Where this belief is weak
+## Where This Velief is Weak
 I don't yet know **when external accountability helps and when it backfires**.
 
 For some people:
@@ -38,7 +38,7 @@ The same mechanism may produce opposite outcomes depending on timing and identit
 Right now, I don't have a model for that.
 That's a problem.
 
-## The real risk
+## The Real Risk
 If I get this wrong, PEACH becomes _harmful_ instead of _helpful_.
 
 Well-intended scaffolding could:
@@ -48,7 +48,7 @@ Well-intended scaffolding could:
 
 That would violate the core premise of PEACH.
 
-## What would disconfirm my assumption
+## What Would Disconfirm my Assumption
 Any of the following would force a rethink:
 - people who only move *after* clarity, never before
 - people who shut down under accountability, even when it's light
@@ -56,7 +56,7 @@ Any of the following would force a rethink:
 
 I need to find these cases early.
 
-## What I'm doing next
+## What I'm Doing Next
 I'm not designing around this yet.
 I'm testing it.
 

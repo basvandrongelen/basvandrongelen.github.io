@@ -11,7 +11,7 @@ description: "Why execution collapses under sustained disruption. And why the pr
 
 ---
 
-## 1. What I believed
+## 1. What I Believed
 
 You already know how this goes.
 
@@ -23,7 +23,7 @@ I drew that conclusion for years. I was wrong about what the problem was.
 
 ---
 
-## 2. What reality did
+## 2. What Reality Did
 
 Between February and March 2026, I ran an extended stress test. Not on purpose, life just happened.
 
@@ -39,7 +39,7 @@ None of these things were catastrophic individually. Together they produced some
 
 ---
 
-## 3. What broke
+## 3. What Broke
 
 The belief that discipline was the variable.
 
@@ -59,7 +59,7 @@ That's not a discipline problem. That's a structural absence.
 
 ---
 
-## 4. What I decided
+## 4. What I Decided
 
 Two things.
 
@@ -71,7 +71,7 @@ I stopped trying to fix my discipline. I started asking two different questions.
 
 ---
 
-## 5. What this changes
+## 5. What This Changes
 
 I'm building [PEACH-Flow](https://peach-flow.com) around the first insight.
 
@@ -87,4 +87,4 @@ The second insight, energy as a hard input rather than a soft preference, isn't 
 
 *I'm building PEACH-Flow in public. If this resonates, or if you've lived a version of this, I want to hear about it.*
 
-*[peach-flow.com](https://peach-flow.com) . [basvandrongelen.com](https://basvandrongelen.com)*
+*[peach-flow.com](https://peach-flow.com) - [basvandrongelen.com](https://basvandrongelen.com)*

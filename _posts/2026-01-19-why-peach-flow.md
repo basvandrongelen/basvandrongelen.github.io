@@ -48,9 +48,9 @@ I don't have attention to spare.
 
 I want one name, one spelling, one mental model.
 
-## Why "peach-flow"
+## Why "PEACH-Flow"
 
-I chose **peach-flow** deliberately.
+I chose **PEACH-Flow** deliberately.
 
 Not because it's perfect.  
 But because it's *precise enough*.
@@ -85,7 +85,7 @@ It also hides indecision.
 This reduces noise.  
 It increases commitment.
 
-From here on out, it's **peach-flow**.
+From here on out, it's **PEACH-Flow**.
 
 Not because it's final.  
 But because it's aligned enough to move forward.

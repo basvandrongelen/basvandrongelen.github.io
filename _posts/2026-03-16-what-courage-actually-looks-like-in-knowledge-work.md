@@ -18,7 +18,7 @@ Back in 2004, I switched careers. I had been working as an audio, electrical, an
 
 ---
 
-## 1. What I believed
+## 1. What I Believed
 
 I believed courage was a trait. Something you either had or you didn't. The kind of thing that made certain people comfortable on stage, in front of investors, in rooms where reputation was on the line.
 
@@ -30,7 +30,7 @@ That theory got stress-tested in 2004. And again last month. The result was the 
 
 ---
 
-## 2. What reality did
+## 2. What Reality Did
 
 Different world. Different skills. Different everything. And in IT recruitment, the core activity is one that most people, given a choice, would never voluntarily do: cold calling. Picking up the phone, dialling a stranger, attempting to have a meaningful conversation with someone who did not ask to hear from you and would often prefer you hadn't called.
 
@@ -46,7 +46,7 @@ What didn't fade was something else entirely. The structural fact of the colleag
 
 ---
 
-## 3. What broke
+## 3. What Broke
 
 The belief that motivation is the engine.
 
@@ -64,7 +64,7 @@ The call was never as bad as the thirty seconds before it. The pitch was never a
 
 ---
 
-## 4. What this connects to
+## 4. What This Connects to
 
 Cato the Younger used to walk barefoot in winter. Thin clothing, cold weather, sometimes rain. A Roman aristocrat who would almost certainly never be destitute, training himself anyway for a life in which he might have to experience poverty. Not because the poverty was likely. Because he did not want to fear it.
 
@@ -78,7 +78,7 @@ The competitive reframe helped short-term. The structure helped permanently.
 
 ---
 
-## 5. What this changes
+## 5. What This Changes
 
 Most knowledge workers are waiting for the motivation to arrive before they do the visible work. Before they send the message. Before they share the draft. Before they publish the thing that might expose them.
 
@@ -100,4 +100,4 @@ That's the training. Not the feeling before it. The action despite it.
 
 *Building PEACH-Flow in public. If this resonates, or if you've lived a version of this, I want to hear about it.*
 
-*[peach-flow.com](https://peach-flow.com) . [basvandrongelen.com](https://basvandrongelen.com)*
+*[peach-flow.com](https://peach-flow.com) - [basvandrongelen.com](https://basvandrongelen.com)*
