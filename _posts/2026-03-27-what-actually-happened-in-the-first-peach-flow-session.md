@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "What actually happened in the first peach-flow session"
+title: "What Actually Happened in the First PEACH-Flow Session"
 date: 2026-03-27
 categories: [build-in-public, field-report]
 tags: [peach-flow, session, discovery, format]
-description: "Field Report #1 — the format worked, and so did everything that broke."
+description: "Field Report #1. The format worked, and so did everything that broke."
 ---
 
 I thought the format was the product. It isn't.
