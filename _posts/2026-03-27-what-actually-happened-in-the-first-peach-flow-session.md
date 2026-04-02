@@ -88,4 +88,4 @@ One session ran. Someone showed up, found her edge, moved something real and sai
 
 ---
 
-*peach-flow is a structured exposure format for high-achievers who freeze under visibility pressure. Built in public at [peach-flow.com](https://peach-flow.com) - [basvandrongelen.com](https://basvandrongelen.com)*
+*PEACH-Flow is a structured exposure format for high-achievers who freeze under visibility pressure. Writting during a PEACH-Flow Growth-Sprint. Built in public at [peach-flow.com](https://peach-flow.com) - [basvandrongelen.com](https://basvandrongelen.com)*
